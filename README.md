@@ -27,7 +27,6 @@ mongodb,
 html 
 Css,
 JavaScript,
-Browser API,
 d3,
 leafleat,
 bootStrap
