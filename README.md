@@ -1,4 +1,4 @@
-# crime_rate
+# crime_rate_prediction
 
 The backend of the crime rate project an (web app), written in the python flask framework ,
 it can be deploy independently as there is the server side scripting (with little changes),
