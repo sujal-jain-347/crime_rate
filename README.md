@@ -21,9 +21,9 @@ prevention of crime and public by making them aware of the
 crime happenings surround them.
 
 Here we have use the :
-python
-flask
-mongodb
+python,
+flask,
+mongodb,
 html 
 Css,
 JavaScript,
